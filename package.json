@@ -1,0 +1,12 @@
+{
+  "name": "Practice-3",
+  "version": "1.0.0",
+  "description": "HTML-CSS",
+  "main": "index.js",
+  "repository": "https://github.com/linhnhi01/HTNL-CSS-Practice-3.git",
+  "author": "DESKTOP-R4TO9PD\\ADMIN <linhnhi.2922@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
